@@ -1,2 +1,5 @@
-Pillow>=9.0.0
-PyQt5>=5.15.0
+streamlit
+google-generativeai
+Pillow>=9.1.0
+PyYAML
+python-dotenv
