@@ -1,0 +1,14 @@
+# System dependencies for fonts
+fonts-firacode
+fonts-jetbrains-mono
+fonts-inter
+fonts-lato
+fonts-noto-core
+fonts-noto-mono
+fonts-noto-ui-core
+fonts-noto-color-emoji
+fonts-dejavu-core
+fonts-liberation2
+fonts-open-sans
+fonts-paratype
+fonts-ebgaramond
