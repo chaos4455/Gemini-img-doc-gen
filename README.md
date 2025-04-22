@@ -10,6 +10,8 @@ Olá! Eu sou [Elias Andrade](https://www.linkedin.com/in/itilmgf/), um desenvolv
 
 Atualmente, o foco principal desta ferramenta é a **geração eficiente de colagens de imagens** com recursos avançados. A parte "Gemini" no nome reflete uma aspiração futura ou integração potencial com modelos de IA generativa para documentação ou outras tarefas (veja a seção sobre a API Key do Gemini).
 
+<img width="1920" alt="chrome_dgTevGfeyR" src="https://github.com/user-attachments/assets/92de5818-9b06-42b3-8e62-1ae2a5bc21aa" />
+
 
 ---
 
