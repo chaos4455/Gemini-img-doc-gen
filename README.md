@@ -10,6 +10,7 @@ Olá! Eu sou [Elias Andrade](https://www.linkedin.com/in/itilmgf/), um desenvolv
 
 Atualmente, o foco principal desta ferramenta é a **geração eficiente de colagens de imagens** com recursos avançados. A parte "Gemini" no nome reflete uma aspiração futura ou integração potencial com modelos de IA generativa para documentação ou outras tarefas (veja a seção sobre a API Key do Gemini).
 
+
 ---
 
 ## ✨ Funcionalidades Principais
@@ -41,6 +42,17 @@ Além disso, é uma ótima oportunidade para praticar e demonstrar o uso de tecn
 *   **💻 PyQt5:** Um framework robusto para criação de interfaces gráficas desktop.
 *   **⚡ `concurrent.futures`:** Para explorar o paralelismo e otimizar a performance.
 *   **🔒 `hashlib`:** Para a verificação de integridade e identificação única de conteúdo.
+
+
+![b8cc8b0c81bb3ea67ea1ac6622c7f3adcbb3994707e52011239c5028](https://github.com/user-attachments/assets/de902fd1-731b-466c-80bb-eb024200d5a3)
+
+![07359e92e67a23f3d770e35a5f19849a407ad8b7923e93e7f08e0047](https://github.com/user-attachments/assets/789a0979-27be-43a4-8757-5392d6445cb8)
+
+![ed76eeda6661b1fa8634fabef9399c0e05b29b320ee1569c99790b44](https://github.com/user-attachments/assets/039fc0dd-a83b-4da9-9f6d-1319c2045d99)
+
+![199bcd9151955d9ec1d0a556babfc8ad72356e1580f5e44deec5f9f2](https://github.com/user-attachments/assets/7428ec11-8a3c-49ca-a13d-fef66b3a69b5)
+
+
 
 ---
 
